@@ -3,7 +3,7 @@ resources
 .hugo_build.lock
 .DS_Store
 assets/jsconfig.json### VisualStudioCode template
-.vscode/*
+../.vscode/tasks.json
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -37,6 +37,7 @@ assets/jsconfig.json### VisualStudioCode template
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
+.idea/**/git_toolbox_prj.xml
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml

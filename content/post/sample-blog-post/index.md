@@ -43,3 +43,5 @@ hugo new post/my-new-post/index.md
 ## 结语
 
 开始你的创作之旅吧！在这个博客中，你可以记录技术心得、分享生活点滴。
+
+IllidanByte0Oo
